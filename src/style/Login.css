@@ -1,0 +1,27 @@
+.login-page {
+  background-image: url("/media/Signup.jpg");
+  width: 100%;
+  height: 100vh;
+  background-size: contain;
+  background-position: center;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.login-form {
+  background-color: tomato;
+  width: 500px;
+  height: 320px;
+
+  padding: 20px;
+  padding-bottom: 0;
+  border-radius: 10px;
+}
+
+.btnSpace {
+  height: 50px;
+  margin: 20px;
+  margin-left: 110px;
+}
